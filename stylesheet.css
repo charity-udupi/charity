@@ -14,7 +14,7 @@
 .details {
     border: #3183a32f solid ;
     border-radius: 10px;
-    font-size: 130%;
+    font-size: 120%;
     background-color: #479feba3;
     margin:5%;
     width: 70%;
@@ -30,12 +30,12 @@
 }
 
 .map {
-    width: 70%;
-    height: 450px;
+    width: 80%;
+    height: 470px;
     border: #3183a32f solid 5px ;
     border-radius: 10px;
     margin: 5%;
-    margin-left: 15%;
+    margin-left: 10%;
     margin-right: 53%;
     padding: 1%;
    
