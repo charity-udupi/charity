@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Charities in Udupi</title>
+    <link rel="stylesheet" href="stylesheet.css" />
+  </head>
+  <body>
+    <div class="heading">KARUNALAYA OLD AGE HOME</div>
+    <div class="details">
+      <div style="padding-left: 3%; padding-top: 3%">Details:</div>
+      <ul>
+        <li>
+          Address:near ABCD PLAY SCHOOL, Kinnimulki, Udupi, Karnataka 576101
+        </li>
+      </ul>
+    </div>
+    <div>
+      <iframe
+        class="map"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3882.5238638177507!2d74.74572011430752!3d13.317656310794774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcbb4eab757237%3A0x6c542cdbedc44e05!2sKARUNALAYA%20OLD%20AGE%20HOME!5e0!3m2!1sen!2sin!4v1650371522883!5m2!1sen!2sin"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+    </div>
+  </body>
+</html>
