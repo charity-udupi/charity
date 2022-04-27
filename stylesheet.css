@@ -29,7 +29,7 @@ a,a:visited{
     width: 70%;
     margin-left: 15%;
     line-height: 150%;
-    filter: drop-shadow(-6px 4px 4px black);
+    filter: drop-shadow(-6px 4px 6px black);
     padding-top: 1%;
     padding-bottom: 1%;
     }
@@ -39,7 +39,7 @@ a,a:visited{
     margin-left: 20%;
     border: #cc340552 solid ;
     border-radius: 10px;
-    filter: drop-shadow(-6px 4px 4px black);
+    filter: drop-shadow(-6px 4px 6px black);
 }
 
 .map {
@@ -50,7 +50,7 @@ a,a:visited{
     margin: 5%;
     margin-left: 10%;
     margin-right: 53%;
-    filter: drop-shadow(-6px 4px 4px black);
+    filter: drop-shadow(-6px 4px 6px black);
    
 }
 
