@@ -65,8 +65,8 @@ width: 100%;
 height: 100%;
 
 content: "";
-filter: blur(1.25px);
-opacity: 0.95;
+/* filter: blur(1px); */
+opacity: 0.93;
 z-index: -1;
 }
 
